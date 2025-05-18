@@ -99,7 +99,7 @@ ORDER BY 2 DESC
 LIMIT 5;
 ```
 
-7. **Identify the longest movie **
+7. **Identify the longest movie**
 ```sql
 SELECT * FROM netflix
 WHERE type = 'Movie' AND duration = (SELECT MAX(duration) FROM netflix)
@@ -146,7 +146,7 @@ ORDER BY 3 DESC
 LIMIT 5;
 ```
 
-13. **list all movies that are documentries **
+13. **list all movies that are documentries**
 ```sql
 SELECT * FROM netflix
 WHERE type = 'Movie' and listed_in ILIKE '%Documentaries%'
@@ -177,10 +177,7 @@ ORDER BY 2 DESC
 LIMIT 10;
 ```
 
---17. Categorize the content based on the presence of the keywords 'kill'
--- and 'violence' in the descriptive field. lable content containing these keywords 
--- as 'bad_content' and all other content as 'good'. count how many items 
--- falls into each category
+17. **Categorize the content based on the presence of the keywords 'kill' and 'violence' in the descriptive field, lable content containing these keywords as 'bad_content' and all other content as 'good'**. count how many items fall into each category**
 ```sql
 WITH new_table 
 AS
