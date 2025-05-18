@@ -166,7 +166,7 @@ release_year > EXTRACT(YEAR FROM CURRENT_DATE) - 20
 ```
 
 16. **Find top 10 actors who have appeared in the highest number of movies produced in India**
-``sql
+```sql
 SELECT 
 UNNEST (STRING_TO_ARRAY(casts,',')) as actors,
 COUNT(*) as total_count
@@ -177,7 +177,7 @@ ORDER BY 2 DESC
 LIMIT 10;
 ```
 
-17. **Categorize the content based on the presence of the keywords 'kill' and 'violence' in the descriptive field, lable content containing these keywords as 'bad_content' and all other content as 'good'**. count how many items fall into each category**
+17. **Categorize the content based on the presence of the keywords 'kill' and 'violence' in the descriptive field, lable content containing these keywords as 'bad_content' and all other content as 'good'. count how many items fall into each category**
 ```sql
 WITH new_table 
 AS
