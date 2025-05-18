@@ -30,7 +30,7 @@ This Project deals with mainly 17 Business Problems which can be productive for 
 
 ---
 
-![NETFLIX_poster](
+![NETFLIX_poster](https://github.com/vj220803/NETFLIX_Data_Analysis/blob/main/netflix_poster.png.png)
 
 ## Tools Used
 
