@@ -30,6 +30,8 @@ This Project deals with mainly 17 Business Problems which can be productive for 
 
 ---
 
+![NETFLIX_poster](
+
 ## Tools Used
 
 - **PostgreSQL 17.5**
