@@ -6,8 +6,9 @@
 This project demonstrates exploratory data analysis on the **Netflix Movies and TV Shows** dataset using **PostgreSQL**. The dataset consists of various metadata attributes such as show ID, type, title, director, cast, country, date added, release year, rating, duration, genre, and description. Generating an insightful Analysis of the Movies and TV Shows entries avilable in the dataset, Making business more efficient by focusing on the weak and strong points allowing them to make acurate Data Driven Dicision.
 
 This Project deals with mainly 17 Business Problems which can be productive for targeting specific age group users, Foreign contents importance and future enhancement for more profit in which country to invest more, advertising most famous content to people more and attracting their attention by best homepage recommendation, Collaborating with future young genration having better ideas which will result in future profit investment,etc.
----------------------------------------------------------------------------------------------------------------
 
+---------------------------------------------------------------------------------------------------------------
+![netflix_flow](https://github.com/vj220803/NETFLIX_Data_Analysis/blob/main/netflix_data_analysis_flow.png)
 
 
 ----------------------------------------------------------------------------------------------------------------
