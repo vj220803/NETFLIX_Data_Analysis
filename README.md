@@ -8,6 +8,7 @@ This project demonstrates exploratory data analysis on the **Netflix Movies and 
 This Project deals with mainly 17 Business Problems which can be productive for targeting specific age group users, Foreign contents importance and future enhancement for more profit in which country to invest more, advertising most famous content to people more and attracting their attention by best homepage recommendation, Collaborating with future young genration having better ideas which will result in future profit investment,etc.
 
 ---------------------------------------------------------------------------------------------------------------
+## Flowchart:
 ![netflix_flow](https://github.com/vj220803/NETFLIX_Data_Analysis/blob/main/NETFLIX_flowchart.PNG)
 
 
